@@ -1,0 +1,11 @@
+.hero{
+    /* background-color: aqua; */
+    width: 100%;
+    height: 1000px;
+}
+
+.background{
+    background-color: #808080;
+    width: 100% ;
+    height: 100%;
+}
